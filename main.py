@@ -1,0 +1,1 @@
+print('AGI is coming.')
