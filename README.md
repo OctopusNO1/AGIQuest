@@ -28,8 +28,8 @@ LeetCode 集成： 人工智能访问和解决 LeetCode 问题的接口。
 
 ## Getting Started
 ### Prerequisites
-Python 3.7+
-TensorFlow or PyTorch
+Python 3.7+  
+TensorFlow or PyTorch  
 Access to LeetCode problems (API or web scraping)
 ### Installation
 Clone the repository:
